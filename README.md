@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning <b>Education Engineer KMITL</b><br>🎯 Goals <b>Full Stack Developer</b><br>🎲 Motto <b>Never say “I can’t.”</b><br>📫 How to reach me <b>chayapolchaijaroen@gmail.com</b>
+<p align="left">📚 I'm currently learning <b>Education Engineer KMITL</b><br>🎯 Goals <b>Full Stack Developer</b><br>🎲 Motto <b>Never say “I can’t.”</b><br>📫 How to reach me <b>Tanapol.chaijaroen@gmail.com</b>
 </p>
 
 ###
