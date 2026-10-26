@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chayapol-feliz&label=Profile%20views&color=0e75b6&style=flat" alt="Tanapol-song" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Tanapol-song&label=Profile%20views&color=0e75b6&style=flat" alt="Tanapol-song" /> </p>
 <p align="left">My name is Tanapol and I'm a passionate AI engineer && Full-Stack developer, from thailand</p>
 
 
@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning <b>Education Engineer KMITL</b><br>🎯 Goals <b>Full Stack Developer</b><br>🎲 Motto <b>Never say “I can’t.”</b><br>📫 How to reach me <b>Tanapol.chaijaroen@gmail.com</b>
+<p align="left">📚 I'm currently learning <b>Software Engineer</b><br>🎯 Goals <b>Full Stack Developer</b><br>🎲 Motto <b>Never say “I can’t.”</b><br>📫 How to reach me <b>Tanapol.chaijaroen@gmail.com</b>
 </p>
 
 ###
